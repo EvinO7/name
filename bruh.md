@@ -1,4 +1,4 @@
-# 日本語も大丈夫ですか[^1]
+# 日本語も大丈夫ですか [^1]
 ## woah second level
 - 2 levels of headings
 * An image embed probably
