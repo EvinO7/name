@@ -5,4 +5,4 @@
 - what is this
 
 ![johnny is not ok](https://tiermaker.com/images/templates/bgtl-mega-fisho-1419848/14198481640222543.jpg)
-[^1] to the top
+[^1]: to the top
